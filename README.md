@@ -1,8 +1,10 @@
-# React + Vite
+# Melodify Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React frontend application for the Melodify music streaming platform.
 
-Currently, two official plugins are available:
+## Setup & Run Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Install Node.js from https://nodejs.org/ (skip if already installed).
+2. Run `npm install` in the project folder to install dependencies.
+3. Run `npm start` to start the development server.
+4. Open the provided localhost URL in your browser.
